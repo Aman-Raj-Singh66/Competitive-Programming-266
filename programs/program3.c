@@ -59,7 +59,7 @@ void display(int a[], int n) {
 int main() {
     int a[100], n, i, choice;
 
-    printf("Enter number of products: ");
+    printf("Enter number of product: ");
     scanf("%d", &n);
 
     printf("Enter product prices:\n");
